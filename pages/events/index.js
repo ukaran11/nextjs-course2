@@ -1,6 +1,6 @@
 import { useRouter } from 'next/router';
 
-import EventsSearch from '../../components/event-detail/events-search';
+import EventsSearch from '../../components/events/events-search';
 import EventList from '../../components/events/event-list';
 import { getAllEvents } from '../../dummy-data';
 
